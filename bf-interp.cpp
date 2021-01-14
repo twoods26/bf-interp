@@ -1,3 +1,5 @@
+// minimal interpreter for the esoteric 'brainfuck' programming language
+
 #include <string.h>
 #include <iostream>
 #include <fstream>
